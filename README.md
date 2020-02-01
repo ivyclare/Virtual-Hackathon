@@ -96,7 +96,6 @@ https://forms.gle/sX3sUDSE85xH4PS18
  
  
  
- <img src="images/Ok-We-Have-Lets-Do-This-Meme.jpg" alt="drawing" width="1000" height="350">
  
 
 Judges: [George Christopoulos](https://github.com/geochri), [Amitrajit Bose](https://www.linkedin.com/in/amitrajitbose/),[Yemissi B. Kifouly](https://www.linkedin.com/in/yemissib-kifouly/), [Fairoza Amira Binti Hamzah](https://www.linkedin.com/in/fairoza-amira-binti-hamzah/), [Arka Chakraborty](https://www.linkedin.com/in/arka-chakraborty-96a336145/),[Anna Unger](https://www.linkedin.com/in/annakunger/)
